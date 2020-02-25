@@ -50,6 +50,10 @@
  - [如何解构单体前端应用——前端应用的微服务式拆分](https://www.phodal.com/blog/how-to-build-a-microfrontend-framework-mooa/)
  - [无代码编程](https://www.phodal.com/blog/low-code-programming/)
  - [前后端分离团队的资源浪费](https://www.phodal.com/blog/frontend-backend-seperate-team-is-waste-resources/)
+ - [构建质量可信的软件系统](https://www.phodal.com/blog/build-trusted-software-system/)
+ - [管理依赖的 11 个策略](https://www.phodal.com/blog/dependency-management-strategy/)
+ - [如何创建你的应用脚手架](https://www.phodal.com/blog/how-to-create-application-boilerplate/)
+ - [整洁前端架构](https://github.com/phodal/clean-frontend)
 
 **架构拾集**：
 
@@ -60,6 +64,7 @@
  - [【架构拾集】移动应用的自动化测试（BDD 方式）](https://www.phodal.com/blog/phodal-architecture-101-mobile-appllication-test-architecture/)
  - [【架构拾集】基于混合应用架构的跨平台实时聊天应用](https://www.phodal.com/blog/architecture-design-build-instant-message-application/)
  - [【架构拾集】WebView 的JavaScript Bridge 设计](https://www.phodal.com/blog/architecture-books-build-hybird-framework/)
+ - [跨平台架构模式](https://www.phodal.com/blog/cross-platform-strategy/)
 
 ### 编码
 
@@ -82,6 +87,13 @@
  - 2016.11 [UI测试：一个浏览器跑要8分钟，那么8个浏览器呢？](https://www.phodal.com/blog/one-browser-run-test-in-8mins-how-about-eight-browsers/)
  - 2015.12 [基于Virtual DOM与Diff DOM的测试代码生成](https://www.phodal.com/blog/virtual-dom-diff-dom-generate-test/)
  - 2017.10 [BDD 框架对比: Cucumber.js vs Robot Framework vs Gauge.js](https://www.phodal.com/blog/how-to-choice-you-bdd-framework-robot-cucumber-gauge/)
+ - [测试代码的坏味道](https://www.phodal.com/blog/test-bad-smell/)
+
+### 系统重构
+
+ - [如何做遗留系统的重构评估](https://www.phodal.com/blog/evaluate-legacy-system/)
+ - [分层架构重构](https://www.phodal.com/blog/refactor-mvc-architecture-to-ddd/)
+ - [重构的自动化](https://www.phodal.com/blog/auto-refactor/)
 
 ### 写作
 
@@ -105,11 +117,13 @@
  - [2016 年节点——增长的一年：不只编程](https://www.phodal.com/blog/summary-2016-growth-year-notolny-programming/)
  - [2017 年节点——T 型成长，持续学习](https://www.phodal.com/blog/summary-2017-t-talents-continues-growth/)
  - [2018 节点：Think Big & Be Long](https://www.phodal.com/blog/summary-2018-think-big-and-be-long/)
+ - [2019 节点: Love Wife & Change Life](https://www.phodal.com/blog/annual-2019-love-wife-change-life/)
 
 ## 书
 
 ### 作者
 
+ - 《前端架构：从入门到微前端》 电子工业出版社
  - 《全栈应用开发：精益实践》 电子工业出版社（购买：[亚马逊](https://www.amazon.cn/dp/B0722YJR89)、[当当](http://product.dangdang.com/25077858.html)、[京东](http://item.jd.com/12195442.html)）
  - 《自己动手设计物联网》 电子工业出版社（购买：[亚马逊](https://www.amazon.cn/%E5%9B%BE%E4%B9%A6/dp/B01IBZWTWW?ie=UTF8&creative=2384&creativeASIN=B01IBZWTWW&linkCode=df0&ref_=asc_df_B01IBZWTWW2239914&tag=douban-23)、[当当](http://product.dangdang.com/24000878.html?_ddclickunion=P-306226-0-s26841195|ad_type=0|sys_id=1#dd_refer=https%3A%2F%2Fbook.douban.com%2Flink2%2F%3Flowest%3D4250%26pre%3D0%26vendor%3Ddangdang%26srcpage%3Dsubject%26price%3D5020%26pos%3D1%26url%3Dhttp%253a%252f%252funion.dangdang.com%252ftransfer.php%253ffrom%253dp-306226-0-s26841195%2526backurl%253dhttp%253a%252f%252fproduct.dangdang.com%252fproduct.aspx%253fproduct_id%253d24000878%26cntvendor%3D4%26srcsubj%3D26841195%26type%3Dbkbuy%26subject%3D26841195)、[京东](http://item.jd.com/11946585.html)）
 
@@ -130,6 +144,9 @@
  - 《[我的职业是前端工程师](https://github.com/phodal/fe)》
  - 《[Serverless 应用开发指南](https://github.com/phodal/serverless)》
  - 《[微前端的那些事儿](https://github.com/phodal/microfrontends)》
+ - 《[系统重构与迁移指南](https://github.com/phodal/migration)》
+ - 《[云研发：研发即代码](https://github.com/phodal/cloud-dev)》（草稿）
+
 
 ### 审阅
 
@@ -141,10 +158,15 @@
  - 《[Expert Angular](https://www.packtpub.com/web-development/expert-angular)》(英文版，PACKT出版社)
  - 《[Angular 6 by Example - Third Edition](https://www.packtpub.com/web-development/angular-example-third-edition)》(英文版，PACKT出版社)
  - 《[Mastering Angular Components - Second Edition](https://www.packtpub.com/web-development/mastering-angular-components-second-edition)》(英文版，PACKT出版社)
+ - 《[Building Large-Scale Web Applications with Angular](https://www.packtpub.com/web-development/building-large-scale-web-applications-angular)》(英文版，PACKT出版社)
 
 ## 开源项目
 
 详细见：[Ideas](https://github.com/phodal/ideas)
+
+### 语言
+
+ - 通用语言元信息转换器 [Chapi](https://github.com/phodal/chapi)
 
 ### 工具
 
@@ -152,6 +174,7 @@
  - DDD 生成工个 [stepping](https://github.com/phodal/stepping)
  - Markdown 编辑器 [Phodit](https://github.com/phodal/phodit)
  - Serverless 密码管理工具 [Mopass](https://github.com/phodal/mopass)
+ - 遗留系统重构工具 [Coca](https://github.com/phodal/coca)
 
 ### 移动端
 
